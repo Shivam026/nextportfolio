@@ -86,7 +86,7 @@ function Navbar() {
                 ))}
               </ul>
               <div className="nav-items-button">
-                <Button text='Resume' link="http://localhost:3000/resume.pdf"/>
+                <Button text='Resume' link="https://nextportfolio-s.vercel.app//resume.pdf"/>
               </div>
             </div>
         </div>
