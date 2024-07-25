@@ -11,7 +11,7 @@ function Contact() {
       
       <h2 className="contact-sub-title">Contact me</h2>
       <p className="contact-text">
-        I'm looking for new opportunity as web developer/Software engineer/Programmer and in the futurelearning about cloud technologies.
+        I am looking for new opportunity as web developer/Software engineer/Programmer and in the futurelearning about cloud technologies.
         If you have any opportunity for me or any new job openings then please send me email.
       </p>
       <div className="contact-cta">
